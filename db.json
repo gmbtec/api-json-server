@@ -1,11 +1,28 @@
 {
-  "posts": [
+  "alunos": [
     {
       "id": 1,
-      "title": "hello"
+        "nome": "Aluno 1",
+        "sobrenome": "Sobrenome do Aluno 1",
+        "email": "teste@testando.com",
+        "avatar": "https://www.mecallapi.com/users/1.png"
+    }, 
+    {
+      "id": 2,
+        "nome": "Aluno 2",
+        "sobrenome": "Sobrenome do Aluno 2",
+        "email": "teste@testando.com",
+        "avatar": "https://www.mecallapi.com/users/2.png"
+    },
+ {
+      "id": 3,
+        "nome": "Aluno 3",
+        "sobrenome": "Sobrenome do Aluno 3",
+        "email": "teste@testando.com",
+        "avatar": "https://www.mecallapi.com/users/3.png"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "democrata"
   }
 }
