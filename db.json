@@ -22,7 +22,30 @@
         "avatar": "https://www.mecallapi.com/users/3.png"
     }
   ],
-  "profile": {
+    "professores": [
+    {
+      "id": 1,
+        "nome": "Professor 1",
+        "sobrenome": "Sobrenome do Professor 1",
+        "email": "teste@testando.com",
+        "avatar": "https://www.mecallapi.com/users/1.png"
+    }, 
+    {
+      "id": 2,
+        "nome": "Professor 2",
+        "sobrenome": "Sobrenome do Professor 2",
+        "email": "teste@testando.com",
+        "avatar": "https://www.mecallapi.com/users/2.png"
+    },
+ {
+      "id": 3,
+        "nome": "Professor 3",
+        "sobrenome": "Sobrenome do Professor 3",
+        "email": "teste@testando.com",
+        "avatar": "https://www.mecallapi.com/users/3.png"
+    }
+  ],
+  "empresa": {
     "name": "democrata"
   }
 }
